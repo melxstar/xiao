@@ -1,7 +1,7 @@
 [
   {
     "nama": "#menu",
-    "count": 34
+    "count": 36
   },
   {
     "nama": "#changeproses",
@@ -97,7 +97,7 @@
   },
   {
     "nama": "#sewabot",
-    "count": 21
+    "count": 23
   },
   {
     "nama": "#cekdrive",
@@ -125,6 +125,18 @@
   },
   {
     "nama": "#listsewa",
+    "count": 2
+  },
+  {
+    "nama": "#public",
+    "count": 2
+  },
+  {
+    "nama": "#setleft",
+    "count": 1
+  },
+  {
+    "nama": "#setwelcome",
     "count": 1
   }
 ]
