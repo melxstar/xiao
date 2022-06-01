@@ -4,7 +4,7 @@
     "db": [
       {
         "nama": "#menu",
-        "count": 37
+        "count": 47
       },
       {
         "nama": "#changeproses",
@@ -12,7 +12,7 @@
       },
       {
         "nama": "#donate",
-        "count": 6
+        "count": 9
       },
       {
         "nama": "#dashboard",
@@ -32,7 +32,7 @@
       },
       {
         "nama": "#infobot",
-        "count": 6
+        "count": 8
       },
       {
         "nama": "#tebaklagu",
@@ -88,7 +88,7 @@
       },
       {
         "nama": "#sewabot",
-        "count": 25
+        "count": 33
       },
       {
         "nama": "#cekdrive",
@@ -112,11 +112,11 @@
       },
       {
         "nama": "#addsewa",
-        "count": 1
+        "count": 2
       },
       {
         "nama": "#listsewa",
-        "count": 2
+        "count": 4
       },
       {
         "nama": "#public",
